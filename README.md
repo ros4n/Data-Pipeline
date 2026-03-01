@@ -1,4 +1,4 @@
-# ✈️ Airline Delay Data Pipeline
+#  Airline Delay Data Pipeline
 
 An end-to-end ETL pipeline and exploratory analysis of U.S. airline delay data, built in a Jupyter Notebook using Python, pandas, and seaborn.
 
